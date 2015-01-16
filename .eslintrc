@@ -33,6 +33,6 @@
 		"space-in-brackets": [2, "never"],
 		"space-in-parens": [2, "never"],
 		"spaced-line-comment": [2, "always", {exceptions:["-","+","*"]}],
-		"max-len": [2, 120, 4],
+		"max-len": [2, 120, 4]
 	}
 }
