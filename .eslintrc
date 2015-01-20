@@ -6,7 +6,7 @@
 	"rules": {
 		"no-console": 2,
 		"no-extra-parens": 2,
-		"valid-jsdoc": [2, {"requireReturn": false}],
+		"valid-jsdoc": [2, {"requireReturn": false}, "requireParamDescription": false],
 		"no-else-return": 2,
 		"no-eq-null": 2,
 		"no-floating-decimal": 2,
